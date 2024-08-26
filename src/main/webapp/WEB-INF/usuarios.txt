@@ -1,0 +1,2 @@
+Username: Maple, Email: santichips.2004@gmail.com, Password: 1231, Gender: male, Picture: profilepictures/userprofilepictures/3a277abc-fe60-4742-81cf-7b1596c194cd.png
+Username: Oliwis, Email: mapleweosi@gmail.com, Password: 123, Gender: male, Picture: profilepictures/defaultprofilepictures/defaultmaleuser.png
